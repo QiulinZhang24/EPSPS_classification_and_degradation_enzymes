@@ -1,2 +1,1 @@
 # EPSPS_classification_and_degradation_enzymes
-EPSPS_classification/.gitkeep
